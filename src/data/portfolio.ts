@@ -34,8 +34,8 @@ export const profile = {
   location: "Santiago, Republica Dominicana",
   github: "https://github.com/",
   linkedin: "https://linkedin.com/",
-  cvUrl: "/cv-jean-michael-rq.svg",
-  photo: "/jean-profile.png",
+  cvUrl: "cv-jean-michael-rq.svg",
+  photo: "jean-profile.png",
   summary:
     "Estudiante de Informatica enfocado en desarrollo web, soporte tecnico y creacion de aplicaciones informaticas. Aprendo construyendo proyectos reales y documentando mi progreso profesional.",
   about:
@@ -123,16 +123,16 @@ export const certificates: Certificate[] = [
     issuer: "IBEC Latam",
     year: "2026",
     detail: "Curso internacional de Marketing Digital II, duracion 80 horas.",
-    fileUrl: "/certificado-marketing-digital-nivel-2.pdf",
-    imageUrl: "/certificate-marketing-digital.png",
+    fileUrl: "certificado-marketing-digital-nivel-2.pdf",
+    imageUrl: "certificate-marketing-digital.png",
   },
   {
     title: "Introduction to Java",
     issuer: "SoloLearn",
     year: "2025",
     detail: "Curso de introduccion a Java completado el 30 de enero de 2025.",
-    fileUrl: "/certificate-java.jpg",
-    imageUrl: "/certificate-java.jpg",
+    fileUrl: "certificate-java.jpg",
+    imageUrl: "certificate-java.jpg",
   },
 ];
 
